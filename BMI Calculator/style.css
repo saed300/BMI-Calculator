@@ -1,0 +1,22 @@
+.results {
+  margin-top: 10px;
+  color: red;
+  margin-bottom: 30px;
+}
+
+body {
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  height: 100vh;
+}
+
+#submit {
+  display: block;
+  margin-top: 15px;
+}
+
+.red-stuff {
+  border-color: red;
+}
+
